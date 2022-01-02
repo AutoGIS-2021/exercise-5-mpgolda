@@ -71,6 +71,17 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 - Optional: Links to the published maps stored in the [**docs/index.md -file**](docs/index.md) (problem 3)
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
+
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- Bryan R. Vallejo
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10 .0 / 10.0 
+### Comments
+- Nice static map. It would have been nice to see the location of shopping malls as well. :)
+- Interesting interactive map about completed apartments in 2020. Maybe a better explanatory name in legend would help. Well done.
+
   
   
   
